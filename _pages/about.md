@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: “The master-economist must possess a rare combination of gifts…He must be mathematician, historian, statesman, philosopher—in some degree.” χαλεπὰ τὰ καλά.
+subtitle: “The master-economist must possess a rare combination of gifts…He must be mathematician, historian, statesman, philosopher—in some degree.”
 
 profile:
   align: right
@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am João Kling, currently pursuing a Master's degree in Economics at EPGE-FGV, building upon my Bachelor's Degree in Economics from the University of São Paulo. My academic journey was sparked by a profound interest in monetary policy, which not only integrated my studies in macroeconomics and microeconomics but also ignited a keen enthusiasm for finance. Courses in statistics further equipped me with the analytical tools to explore the intricate impacts of government fiscal policies on economic fluctuations in my recent research. I am passionate about leveraging statistical and mathematical methodologies to unravel the complexities inherent in economic phenomena.
+I'm João Kling, currently pursuing a Master's in Economics at EPGE-FGV, following my Bachelor's in Economics from the University of São Paulo. My academic journey began with a fascination for monetary policy, intertwining my studies in macroeconomics and microeconomics, and igniting an interest in finance. I am driven by the endless potential of statistical and mathematical tools to unravel the complexities inherent in economic systems.
 
-Beyond academia, my fascination with the Ancient Greek and Latin languages drives me to uncover timeless wisdom within classical texts. When I'm not immersed in economic theory, I indulge in the world of cinema, appreciating how films intricately portray human emotions and the complexities of existence. Furthermore, I find solace and adventure in the outdoors, particularly amidst the serene beauty of mountains during my hiking escapades.
+Beyond academia, my passion for Ancient Greek and Latin literature adds depth to my perspective, while hiking in the mountains provides solace and inspiration amidst the academic rigors.
