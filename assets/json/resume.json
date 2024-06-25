@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Rio de Janeiro",
+      "countryCode": "BR",
+      "region": "RJ"
     },
     "profiles": [
       {
@@ -29,8 +29,8 @@
       "url": "",
       "area": "Economics",
       "studyType": "Bachelor's",
-      "startDate": "2019-02",
-      "endDate": "2023-01",
+      "startDate": "2019",
+      "endDate": "2023",
       "score": "",
       "courses": [""]
     },
@@ -40,20 +40,20 @@
       "url": "",
       "area": "Economics",
       "studyType": "Master's",
-      "startDate": "2024-01",
+      "startDate": "2024",
       "endDate": "Present",
       "score": "",
       "courses": [""]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    }
+"awards": [
+  {
+    "title": "Second Place, Fundace Monograph Prize",
+    "date": "2023",
+    "awarder": "Fundace",
+    "url": "",
+    "summary": "Received second place for the undergraduate thesis titled 'Fiscal Multipliers: The Impact of Government Spending and Taxation on Inflation and Output'. The thesis was guided by Prof. Roseli Basso-Silva and focused on econometric analysis and economic impact assessment."
+  }
   ],
   "certificates": [
     {
@@ -64,41 +64,47 @@
       "icon": ""
     }
   ],
-  "skills": [
-    {
-      "name": "Technical",
-      "level": "",
-      "icon": "",
-      "keywords": ["LaTeX", "R", "C", "Eviews"]
-    }
-  ],
+"skills": [
+  {
+    "name": "Technical Skills",
+    "level": "",
+    "icon": "",
+    "keywords": [
+      "R (Intermediate)",
+      "Python (Intermediate)",
+      "Eviews (Intermediate)"
+    ]
+  }
+],
   "languages": [
     {
       "language": "English",
-      "fluency": "",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
       "language": "Portuguese",
-      "fluency": "",
+      "fluency": "Native",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "",
+      "name": "Economics Research",
       "icon": "",
-      "keywords": [""]
+      "keywords": ["Macroeconomic", "Quantitative Analysis", "Fiscal and Monetary Policy"]
     }
-  ],
+  ],,
   "volunteer": [],
   "publications": [],
   "references": [],
   "projects": [
     {
       "name": "Fiscal Multipliers: The Impact of Government Spending and Taxation",
-      "summary": "Used econometric methods to estimate the fiscal multipliers of Brazil and demonstrate their impacts on short-term inflation and production, as well as long-term potential production.",
-      "highlights": [""],
+      "summary": "Conducted econometric analysis to estimate fiscal multipliers in Brazil, examining their effects on short-term inflation and production, as well as long-term economic potential.",
+      "highlights": [
+        "Applied advanced econometric techniques including time series analysis, VAR (Vector Autoregression), VEC (Vector Error Correction), and Bayesian methods for comprehensive analysis."
+      ],
       "startDate": "2022-10",
       "endDate": "2023-10",
       "url": ""
