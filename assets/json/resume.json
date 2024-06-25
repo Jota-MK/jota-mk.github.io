@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "João M. Kling",
+    "name": "João von Montfort Kling",
     "label": "Econ Master's Student",
     "image": "",
     "email": "joao.kling@fgv.edu.br",
-    "phone": "",
+    "phone": "+55 (24) 98855-2707",
     "url": "",
     "summary": "",
     "location": {
@@ -22,38 +22,26 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
   "education": [
     {
-      "institution": "",
-      "location": "",
+      "institution": "University of São Paulo",
+      "location": "Ribeirão Preto, SP",
       "url": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "area": "Economics",
+      "studyType": "Bachelor's",
+      "startDate": "2019-02",
+      "endDate": "2023-01",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Getúlio Vargas Foundation",
+      "location": "Rio de Janeiro, RJ",
+      "url": "",
+      "area": "Economics",
+      "studyType": "Master's",
+      "startDate": "2024-01",
+      "endDate": "Present",
       "score": "",
       "courses": [""]
     }
@@ -76,26 +64,22 @@
       "icon": ""
     }
   ],
-  "publications": [
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
   "skills": [
     {
-      "name": "",
+      "name": "Technical",
       "level": "",
       "icon": "",
-      "keywords": [""]
+      "keywords": ["LaTeX", "R", "C", "Eviews"]
     }
   ],
   "languages": [
     {
-      "language": "",
+      "language": "English",
+      "fluency": "",
+      "icon": ""
+    },
+    {
+      "language": "Portuguese",
       "fluency": "",
       "icon": ""
     }
@@ -107,22 +91,17 @@
       "keywords": [""]
     }
   ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    }
-  ],
+  "volunteer": [],
+  "publications": [],
+  "references": [],
   "projects": [
     {
-      "name": "",
-      "summary": "",
+      "name": "Fiscal Multipliers: The Impact of Government Spending and Taxation",
+      "summary": "Used econometric methods to estimate the fiscal multipliers of Brazil and demonstrate their impacts on short-term inflation and production, as well as long-term potential production.",
       "highlights": [""],
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2022-10",
+      "endDate": "2023-10",
       "url": ""
     }
   ]
 }
-
